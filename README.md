@@ -59,40 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivkoirala1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivkoirala1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivkoirala1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shivkoirala1&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/Shivkoirala1">
-    <img src="https://img.shields.io/badge/GitHub-Shivkoirala1-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivkoirala1&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
 
 <p align="center">⭐ <i>Feel free to explore my repositories and leave a star if you find something useful!</i> ⭐</p>

@@ -1,4 +1,4 @@
-## Welcome To My GitHub
+## Hi Welcome To My GitHub
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Damaru+Ballav+Koirala;Always+Learning+New+Things" alt="Typing SVG" />

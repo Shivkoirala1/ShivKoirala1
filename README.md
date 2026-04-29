@@ -13,7 +13,6 @@
 - 💡 I enjoy building systems that solve real-world problems
 - 📍 Based in **Nepal** 🇳🇵
 - 👥 14 followers | 16 following
-
 ---
 
 ## 🛠️ Tech Stack
@@ -64,4 +63,4 @@
 
 
 
-<p align="center">⭐ <i>Feel free to explore my repositories and leave a star if you find something useful!</i> ⭐</p>
+<p align="center">⭐ <i>Feel free to explore my repositories and leave a star if you find anything useful!</i> ⭐</p>

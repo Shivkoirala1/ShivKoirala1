@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Shram-Sewa ** — a MERN stack job marketplace connecting local clients with verified f
-- reelancers in Nepal
+- 🔭 I'm currently working on Eccomerce Website which is being used by using Java 
 - 🌱 I'm learning and growing in **Full Stack Development**
 - 💡 I enjoy building systems that solve real-world problems
 - 📍 Based in **Nepal** 🇳🇵

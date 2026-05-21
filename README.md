@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋\n
 💫 About Me
 • 🔭 I’m currently working on Ecommerce System 
 • 💻 I’ve built projects like Gym Management System (Java) and WeCare Inventory System (Python)

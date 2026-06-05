@@ -49,10 +49,5 @@ A passionate developer from Nepal building real-world projects using Python, Jav
 
 ---
 
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Shivkoirala1-181717?style=flat&logo=github)](https://github.com/Shivkoirala1)
-
----
 
 *Thanks for visiting my profile! Feel free to explore my repositories and star anything you find useful ⭐*

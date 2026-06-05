@@ -11,7 +11,7 @@ A passionate developer from Nepal building real-world projects using Python, Jav
 - 💻 I enjoy building practical systems — from inventory tools to full-stack web apps
 - 🌱 Always learning new technologies and improving my skills
 
----
+----------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 

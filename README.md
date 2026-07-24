@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Damaru Ballav Koirala</h1>
+<h1 align="center">Hii !!  , I'm Damaru Ballav Koirala</h1>
 <h3 align="center">Full Stack Developer | BSc (Hons) Computing Student | Nepal 🇳🇵</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
   </a>
   <a href="https://github.com/Shivkoirala1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a
 </p>
 
 ---

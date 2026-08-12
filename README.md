@@ -22,7 +22,7 @@
 - 💻 I build full-stack web apps, desktop applications, and data analysis projects
 - 🚀 My flagship project **Shram Sewa** is a production-ready MERN stack freelance marketplace with geolocation, JWT auth, real-time notifications & payment integration
 - 🌱 Currently deepening my skills in **React.js**, **Node.js**, and **Python/Django**
-- 🤝 Open to **internship opportunities** in software development
+- 🤝 Currently Doing Internship in Prasad Info Tech, Itahari 
 - 📍 Based in **Biratnagar, Nepal**
 
 ---

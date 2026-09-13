@@ -1,4 +1,3 @@
-
 <h1 align="center">Hii , I'm Damaru Ballav Koirala</h1>
 <h3 align="center">Full Stack Developer | BSc (Hons) Computing Student |<br> MERN STACK Intern At Prasad Info Tech, Nepal 🇳🇵</h3>
 
@@ -11,7 +10,11 @@
   </a>
   <a href="https://github.com/Shivkoirala1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivkoirala1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -22,7 +25,7 @@
 - 💻 I build full-stack web apps, desktop applications, and data analysis projects
 - 🚀 My flagship project **Shram Sewa** is a production-ready MERN stack freelance marketplace with geolocation, JWT auth, real-time notifications & payment integration
 - 🌱 Currently deepening my skills in **React.js**, **Node.js**, and **Python/Django**
-- 🤝 Currently Doing Internship in Prasad Info Tech, Itahari 
+- 🤝 Currently doing an internship at Prasad Info Tech, Itahari
 - 📍 Based in **Biratnagar, Nepal**
 
 ---
@@ -63,6 +66,19 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivkoirala1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Damaru's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivkoirala1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivkoirala1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -124,11 +140,6 @@
 - 12-table MySQL schema with foreign key constraints
 - ~45% faster query retrieval through indexing and JOIN optimisation
 - **Stack:** MySQL
-
----
-
-### Currently Working on Gokyo Bistro - Hotel Management System
-
 
 ---
 

@@ -69,19 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivkoirala1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Damaru's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivkoirala1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivkoirala1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔥 [Shram Sewa — MERN Stack Freelance Marketplace](https://github.com/Shivkoirala1/Shram-Sewa)

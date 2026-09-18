@@ -1,4 +1,4 @@
-<h1 align="center">Hii , I'm Damaru Ballav Koirala</h1>
+<h1 align="center"> Hii , I'm Damaru Ballav Koirala </h1>
 <h3 align="center">Full Stack Developer | BSc (Hons) Computing Student |<br> MERN STACK Intern At Prasad Info Tech, Nepal 🇳🇵</h3>
 
 <p align="center">
